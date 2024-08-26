@@ -1,0 +1,10 @@
+footer {
+    border-top: 5px solid rgb(255, 63, 63);
+    text-align: center;
+    padding: 20px;
+  }
+  
+  footer > p {
+    font-weight: 700;
+    text-transform: uppercase;
+  }
